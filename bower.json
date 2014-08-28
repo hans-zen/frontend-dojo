@@ -1,0 +1,21 @@
+{
+  "name": "frontend-dojo",
+  "version": "0.0.0",
+  "authors": [
+    "Hans <hnsdream@gmail.com>"
+  ],
+  "description": "A front-end environment",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "front-end"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jeet": "~5.3.0",
+    "font-awesome": "~4.2.0",
+    "jquery": "~2.1.1"
+  }
+}
